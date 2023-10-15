@@ -1,0 +1,196 @@
+package com.chelseaapp
+
+object PlayerData {
+
+    private val namePlayer = arrayOf(
+        "Kepa Arrizabalaga",
+        "Thiago Silva",
+        "Trevoh Chalobah",
+        "Ben Chilwell",
+        "Reece James",
+        "Ruben Loftus-Cheek",
+        "Mason Mount",
+        "Hakim Ziyech",
+        "Mykhailo Mudryk",
+        "Armando Broja"
+    )
+
+    private val deskripsi = arrayOf(
+        " Kepa Arrizabalaga merupakan seorang kiper sepak bola profesional asal Spanyol yang saat ini bermain untuk Chelsea. Ia lahir pada tanggal 3 Oktober 1994 di Ondarroa, Spanyol. Kepa memulai karirnya di dunia sepak bola dengan bergabung dalam akademi Athletic Bilbao, klub sepak bola terkemuka di Spanyol.\n" +
+                "\n" +
+                "Pada tahun 2012, Kepa dipromosikan ke tim senior Athletic Bilbao dan membuat debutnya di La Liga, kompetisi tertinggi di Spanyol. Ia mendapatkan reputasi sebagai salah satu kiper muda berbakat dengan refleks yang cepat, ketangguhan, dan kemampuan menghentikan tembakan lawan yang luar biasa.\n" +
+                "\n" +
+                "Prestasi Kepa semakin memperoleh perhatian pada tahun 2018, ketika Chelsea mengumumkan bahwa mereka telah mencapai kesepakatan untuk mendatangkan Kepa dengan biaya transfer yang menjadi rekor dunia untuk seorang kiper pada saat itu. Kepa menjadi kiper termahal di dunia dengan transfer senilai €80 juta.\n" +
+                "\n" +
+                "Bergabung dengan Chelsea, Kepa berhasil menunjukkan kemampuannya yang luar biasa di bawah mistar gawang. Ia menjadi pilihan utama sebagai kiper utama Chelsea dalam berbagai kompetisi, termasuk Liga Primer Inggris, Piala FA, dan Liga Champions.\n" +
+                "\n" +
+                "Kepa telah memberikan kontribusi yang signifikan dalam kesuksesan Chelsea. Ia turut membantu Chelsea meraih gelar Liga Europa UEFA pada musim 2018-2019, di mana Chelsea berhasil mengalahkan Arsenal di final. Selain itu, ia juga berperan penting dalam membantu Chelsea meraih gelar Piala Super UEFA pada tahun yang sama, di mana mereka mengalahkan Liverpool.\n" +
+                "\n" +
+                "Keahlian Kepa meliputi refleks yang cepat, kemampuan mengantisipasi tembakan lawan, kemahiran dalam menghadapi satu lawan satu, serta distribusi bola yang akurat dan cepat. Ia juga dikenal dengan postur fisik yang baik dan kelincahan di antara tiang gawang.\n" +
+                "\n" +
+                "Meskipun perjalanan Kepa bersama Chelsea tidak selalu mulus dan ada tantangan yang dihadapi, ia tetap menjadi bagian penting dalam skuad Chelsea. Kepa Arrizabalaga adalah sosok kiper yang mampu memberikan ketenangan dan kepercayaan kepada timnya di belakang lapangan.",
+
+        "Thiago Silva adalah seorang bek tengah berpengalaman yang berasal dari Brasil dan saat ini bermain untuk Chelsea. Ia lahir pada tanggal 22 September 1984 di Rio de Janeiro, Brasil. Silva telah membangun reputasi sebagai salah satu bek tengah terbaik dalam sepak bola dunia.\n" +
+                "\n" +
+                "Karier Silva dimulai di Brasil, di mana ia bermain untuk beberapa klub, termasuk Juventude dan Fluminense. Namun, perjalanan kariernya benar-benar melambung ketika ia pindah ke Eropa dan bergabung dengan AC Milan pada tahun 2009. Di Milan, Silva menjadi pilar utama dalam pertahanan tim dan membantu klub meraih beberapa gelar, termasuk Scudetto (gelar Liga Italia) pada musim 2010-2011.\n" +
+                "\n" +
+                "Pada tahun 2012, Silva bergabung dengan Paris Saint-Germain (PSG), klub papan atas Prancis. Ia menjadi bagian integral dari kesuksesan PSG selama bertahun-tahun, membantu klub meraih gelar Ligue 1 secara berulang-ulang dan menjadi kekuatan di kompetisi Eropa. Silva juga dikenal sebagai kapten yang berpengaruh dalam memimpin timnya.\n" +
+                "\n" +
+                "Pada tahun 2020, Silva pindah ke Chelsea dengan status bebas transfer setelah kontraknya dengan PSG berakhir. Bergabung dengan Chelsea, Silva segera menunjukkan kelasnya sebagai seorang bek berpengalaman. Ia memberikan kontribusi yang signifikan dalam memperkuat pertahanan Chelsea, membantu tim menjadi lebih solid dan sulit ditembus oleh lawan.\n" +
+                "\n" +
+                "Keahlian Silva terletak pada kemampuannya dalam membaca permainan dengan sangat baik. Ia memiliki naluri bertahan yang tajam, mampu mengantisipasi gerakan lawan, dan menempatkan dirinya dengan strategis di lapangan. Kemampuan kepemimpinan Silva juga sangat dihargai, dengan kemampuannya mengatur pertahanan dan memberikan arahan kepada rekan setimnya.\n" +
+                "\n" +
+                "Selain itu, Silva memiliki keahlian dalam duel udara, memenangkan banyak perebutan bola di udara dengan posisi dan timing yang tepat. Ia juga memiliki kemampuan teknis yang baik dalam mengoper bola dan memulai serangan dari belakang.\n" +
+                "\n" +
+                "Dalam karier internasionalnya, Silva telah mewakili tim nasional Brasil dalam berbagai turnamen, termasuk Piala Dunia FIFA dan Copa America. Ia dihormati sebagai salah satu bek terbaik dalam sejarah sepak bola Brasil.\n" +
+                "\n" +
+                "Thiago Silva adalah seorang bek yang sangat dihormati dan diakui di dunia sepak bola. Kontribusinya yang konsisten dan keahliannya yang luar biasa dalam pertahanan telah membuatnya menjadi salah satu bek paling diandalkan dalam permainan modern.\n",
+
+        " Trevoh Chalobah adalah seorang bek muda yang berasal dari Inggris dan merupakan lulusan akademi Chelsea. Ia lahir pada tanggal 5 Juli 1999 di Freetown, Sierra Leone, sebelum kemudian pindah ke Inggris pada usia muda. Chalobah adalah anggota keluarga Chalobah yang dikenal dalam dunia sepak bola, dengan saudaranya Nathaniel Chalobah juga merupakan seorang pemain profesional.\n" +
+                "\n" +
+                "Chalobah memulai karier sepak bolanya di akademi Chelsea sejak usia muda. Ia menunjukkan bakatnya yang luar biasa dan kemampuan bertahan yang solid, yang akhirnya membuatnya dipromosikan ke tim utama Chelsea. Debutnya di tim utama terjadi pada tahun 2021 dalam pertandingan Piala Liga.\n" +
+                "\n" +
+                "Salah satu ciri khas Chalobah adalah kekuatan fisiknya yang luar biasa. Ia memiliki tubuh yang atletis dan mampu menguasai duel fisik dengan baik di lapangan. Kemampuannya dalam duel udara membuatnya sulit dijatuhkan oleh penyerang lawan dan memberikan keunggulan dalam perebutan bola.\n" +
+                "\n" +
+                "Selain kekuatan fisiknya, Chalobah juga memiliki kemampuan bertahan yang baik. Ia memiliki naluri bertahan yang kuat, mampu membaca permainan dengan baik, dan menempatkan dirinya dengan baik di posisi bertahan. Ia juga memiliki keterampilan menghadang dan merebut bola yang baik.\n" +
+                "\n" +
+                "Selain kemampuan bertahan, Chalobah juga memiliki kemampuan dalam mengoper bola dengan baik. Ia memiliki visi permainan yang bagus dan kemampuan distribusi yang akurat. Ia mampu memulai serangan dari belakang dengan mengoper bola dengan tepat ke rekan setimnya.\n" +
+                "\n" +
+                "Meskipun masih muda, Chalobah telah menunjukkan potensi yang besar dalam karier sepak bolanya. Performa solidnya di tim utama Chelsea telah membuatnya mendapatkan pengakuan dan pujian dari penggemar dan pengamat sepak bola. Ia dianggap sebagai salah satu bakat muda yang menjanjikan dalam sepak bola Inggris dan memiliki masa depan yang cerah dalam karier sepak bola.\n" +
+                "\n" +
+                "Trevoh Chalobah adalah pemain muda yang memiliki kombinasi kekuatan fisik, kemampuan bertahan yang baik, dan keterampilan distribusi yang bagus. Dengan terus mengembangkan potensinya dan mendapatkan pengalaman bermain di level tertinggi, Chalobah memiliki potensi untuk menjadi pemain yang sangat berharga bagi Chelsea dan juga tim nasional Inggris di masa depan.\n" +
+                "",
+
+        " Ben Chilwell adalah seorang bek kiri internasional yang berasal dari Inggris dan saat ini bermain untuk Chelsea. Ia lahir pada tanggal 21 Desember 1996 di Milton Keynes, Inggris. Chilwell mulai menunjukkan bakatnya dalam sepak bola sejak usia muda dan akhirnya mengembangkan karier profesionalnya di klub Leicester City sebelum bergabung dengan Chelsea.\n" +
+                "\n" +
+                "Chilwell bergabung dengan akademi Leicester City pada usia delapan tahun dan secara bertahap naik ke tim senior klub. Ia membuat debutnya di tim utama Leicester City pada tahun 2015 dan sejak itu menjadi pemain kunci di sisi kiri pertahanan klub tersebut. Performa konsisten Chilwell menarik perhatian klub-klub besar, dan pada tahun 2020 ia bergabung dengan Chelsea dengan biaya transfer yang signifikan.\n" +
+                "\n" +
+                "Salah satu ciri khas Chilwell adalah kemampuannya dalam serangan dari posisi bek kiri. Ia memiliki kecepatan yang mengesankan dan kemampuan untuk maju ke depan dengan cepat, memberikan ancaman serangan dari sisi kiri lapangan. Chilwell juga terampil dalam memberikan umpan silang yang akurat ke dalam kotak penalti, memberikan peluang bagi rekan setimnya untuk mencetak gol.\n" +
+                "\n" +
+                "Selain serangannya yang kuat, Chilwell juga memiliki kemampuan bertahan yang baik. Ia memiliki naluri bertahan yang kuat, kemampuan dalam membaca permainan, dan kelincahan dalam menghadapi pemain lawan. Ia juga disiplin dalam tugas defensifnya dan mampu menghentikan serangan lawan dengan baik.\n" +
+                "\n" +
+                "Kepemimpinan Chilwell juga patut diperhatikan, meskipun masih muda, ia mampu berperan sebagai pemain penghubung antara lini pertahanan dan serangan tim. Ia memiliki komunikasi yang baik dengan rekan setimnya dan berperan penting dalam mengatur pertahanan dan koordinasi serangan.\n" +
+                "\n" +
+                "Chilwell juga telah mewakili timnas Inggris dalam berbagai kompetisi, termasuk Piala Eropa UEFA. Ia telah memperoleh pengalaman bermain di level internasional dan terus meningkatkan performanya dengan bermain bersama pemain-pemain top.\n" +
+                "\n" +
+                "Ben Chilwell adalah bek kiri yang sangat dihargai dalam dunia sepak bola. Ia memiliki kombinasi kualitas serangan dan pertahanan yang kuat, menjadikannya pemain kunci dalam tim Chelsea. Dengan usia yang masih muda, Chilwell memiliki potensi besar untuk terus berkembang dan menjadi salah satu bek terbaik dalam permainan ini.\n" +
+                "      ",
+
+        "Reece James adalah seorang bek kanan yang juga memiliki kemampuan bermain sebagai gelandang bertahan. Ia lahir pada tanggal 8 Desember 1999 di London, Inggris. James merupakan lulusan akademi Chelsea dan telah menjadi bagian integral dari tim utama klub tersebut.\n" +
+                "\n" +
+                "Karier James di klub dimulai sejak ia bergabung dengan akademi Chelsea pada usia muda. Ia menunjukkan potensi yang besar dan kemampuan yang luar biasa, yang akhirnya membawanya naik ke tim utama. James melakukan debutnya di tim utama Chelsea pada tahun 2019 dan sejak itu menjadi pilihan utama di sisi kanan pertahanan.\n" +
+                "\n" +
+                "Salah satu keunggulan James adalah kecepatan dan kekuatan fisiknya. Ia memiliki kemampuan lari yang cepat dan kemampuan untuk melibas di sayap kanan lapangan dengan mudah. Kemampuan fisiknya memungkinkannya untuk bersaing dengan pemain lawan dan menghadapi tekanan dengan baik.\n" +
+                "\n" +
+                "Selain itu, James memiliki kemampuan serangan yang baik. Ia mampu melakukan overlapping ke depan dengan cepat dan memberikan umpan silang yang akurat kepada rekan setimnya di area kotak penalti. Tendangan kuatnya juga menjadi senjata berbahaya dalam menciptakan peluang gol.\n" +
+                "\n" +
+                "Ketangguhan pertahanan James juga patut diperhatikan. Ia memiliki naluri bertahan yang kuat, kemampuan dalam membaca permainan, dan kelincahan dalam menghadapi pemain lawan. Ia juga tangguh dalam duel fisik dan mampu menghadapi tantangan dengan percaya diri.\n" +
+                "\n" +
+                "Reece James juga dikenal sebagai seorang pemain yang berkomitmen dan bekerja keras. Ia memiliki mentalitas yang kuat dan selalu berusaha memberikan yang terbaik di setiap pertandingan. Kemampuan taktisnya juga diakui, dengan kemampuannya mengatur posisi dan memberikan kontribusi dalam fase bertahan dan serangan.\n" +
+                "\n" +
+                "Di tingkat internasional, James juga telah mewakili tim nasional Inggris di berbagai level. Ia menjadi bagian dari skuad Inggris dalam Piala Eropa UEFA dan mendapatkan pengalaman bermain di level kompetisi yang tinggi.\n" +
+                "\n" +
+                "Reece James adalah seorang bek kanan yang berbakat dan memiliki potensi yang besar dalam karier sepak bola. Kecepatan, kekuatan fisik, kemampuan serangan, dan keahlian bertahan menjadikannya pemain yang sangat berharga bagi Chelsea. Dengan usia yang masih muda, James memiliki masa depan yang cerah dan potensi untuk menjadi salah satu bek kanan terbaik di dunia sepak bola.\n" +
+                "       ",
+
+        " Ruben Loftus-Cheek adalah seorang gelandang serang berbakat yang berasal dari Inggris. Ia lahir pada tanggal 23 Januari 1996 di Lewisham, London. Loftus-Cheek adalah lulusan akademi Chelsea dan telah menjadi bagian penting dari tim utama klub tersebut.\n" +
+                "\n" +
+                "Karier Loftus-Cheek di Chelsea dimulai sejak ia bergabung dengan akademi pada usia delapan tahun. Ia menunjukkan potensi yang luar biasa dan kemampuan teknis yang baik, yang akhirnya membawanya naik ke tim utama. Loftus-Cheek melakukan debutnya di tim utama Chelsea pada tahun 2014 dan sejak itu menjadi pemain yang diandalkan di lini tengah klub.\n" +
+                "\n" +
+                "Salah satu keunggulan Loftus-Cheek adalah keterampilan teknisnya yang luar biasa. Ia memiliki kendali bola yang baik, kemampuan dribbling yang mengesankan, dan kemampuan dalam melakukan operan yang akurat. Loftus-Cheek juga memiliki tendangan kaki yang kuat dan mampu mencetak gol dari posisi gelandang serang.\n" +
+                "\n" +
+                "Meskipun mengalami cedera serius yang mempengaruhi kariernya, Loftus-Cheek tetap menunjukkan mentalitas yang kuat dan tekad untuk bangkit kembali. Ia telah melakukan pemulihan yang panjang dan berhasil kembali bermain dengan performa yang menjanjikan. Hal ini menunjukkan ketekunan dan dedikasi yang tinggi terhadap permainannya.\n" +
+                "\n" +
+                "Pada saat yang sama, Loftus-Cheek juga memiliki kehadiran fisik yang imposan. Ia memiliki tubuh yang tinggi dan kuat, yang memberinya keunggulan dalam menangani tekanan dari pemain lawan dan menjaga keseimbangan dalam permainan. Kemampuannya dalam mengatur dan melindungi bola juga menjadi senjata yang berharga.\n" +
+                "\n" +
+                "Loftus-Cheek telah menjadi bagian dari kesuksesan Chelsea dalam meraih gelar-gelar, termasuk Liga Europa UEFA dan Piala Super UEFA. Kontribusinya dalam serangan dan mencetak gol telah membantu tim mencapai hasil yang positif.\n" +
+                "\n" +
+                "Di tingkat internasional, Loftus-Cheek juga telah mewakili timnas Inggris dalam beberapa kesempatan. Ia menjadi bagian dari skuad Inggris dalam Piala Dunia FIFA 2018, di mana ia mendapatkan pengalaman bermain di level kompetisi yang tinggi.\n" +
+                "\n" +
+                "Ruben Loftus-Cheek adalah pemain yang memiliki potensi besar dalam karier sepak bola. Meskipun mengalami cedera yang serius, ia terus berjuang untuk mengembangkan kemampuannya dan memberikan kontribusi yang berarti bagi Chelsea. Dengan keterampilan teknis yang baik, kemampuan mencetak gol, dan kehadiran fisik yang mengesankan, Loftus-Cheek memiliki masa depan yang cerah dan potensi untuk menjadi salah satu gelandang serang yang menonjol di dunia sepak bola.\n" +
+                "     ",
+
+        "Karier Mount di Chelsea dimulai saat ia bergabung dengan akademi klub pada usia muda. Ia menunjukkan bakatnya yang luar biasa dalam mengatur serangan dan kemampuan teknis yang hebat, yang membuatnya cepat naik ke tim utama. Mount melakukan debutnya di tim utama Chelsea pada tahun 2019 dan sejak itu telah menjadi bagian integral dari skuad klub.\n" +
+                "\n" +
+                "Salah satu keunggulan Mount adalah kreativitasnya dalam mengatur serangan. Ia memiliki visi permainan yang baik dan kemampuan dalam menciptakan peluang bagi rekan setimnya. Mount juga memiliki kemampuan mencetak gol yang menonjol, baik melalui tembakan jarak jauh maupun di dekat kotak penalti.\n" +
+                "\n" +
+                "Selain itu, Mount juga dikenal karena kemampuannya dalam memberikan umpan yang akurat. Ia memiliki teknik operan yang baik dan mampu mengirimkan umpan silang yang berbahaya kepada rekan setimnya. Kemampuan tersebut membuatnya menjadi ancaman serius bagi pertahanan lawan.\n" +
+                "\n" +
+                "Mount juga memiliki kecerdasan taktis yang luar biasa. Ia dapat membaca permainan dengan baik dan mengambil keputusan yang tepat dalam situasi yang cepat. Ia juga memiliki kemampuan bertahan yang baik dan dapat memberikan tekanan kepada pemain lawan di lini tengah.\n" +
+                "\n" +
+                "Prestasi Mount juga patut diperhatikan. Ia telah memberikan kontribusi penting dalam kesuksesan Chelsea meraih gelar-gelar seperti Liga Champions UEFA dan Piala Super UEFA. Penampilannya yang konsisten dan performa yang mengesankan membuatnya diakui sebagai salah satu talenta terbaik di Inggris.\n" +
+                "\n" +
+                "Mason Mount adalah pemain muda yang berbakat dan cerdas di lini tengah Chelsea. Kreativitasnya dalam mengatur serangan, kemampuan mencetak gol, dan kemampuan memberikan umpan menjadikannya pemain yang sangat berharga bagi tim. Dengan usia yang masih muda, Mount memiliki masa depan yang cerah dan potensi untuk menjadi salah satu gelandang serang terbaik di dunia sepak bola.\n" +
+                "       ",
+
+        " Hakim Ziyech adalah seorang pemain sayap yang berasal dari Maroko. Ia lahir pada tanggal 19 Maret 1993 di Dronten, Belanda. Ziyech bergabung dengan Chelsea pada tahun 2020 setelah sukses bersama klub Ajax.\n" +
+                "\n" +
+                "Ziyech dikenal karena kemampuan teknisnya yang luar biasa. Ia memiliki keterampilan mengoper bola yang sangat baik, kemampuan dribbling yang mengesankan, dan kecepatan dalam bergerak. Selain itu, Ziyech juga memiliki tendangan bebas yang berbahaya dan sering kali mampu menciptakan gol dari situasi tersebut.\n" +
+                "\n" +
+                "Salah satu keunggulan Ziyech adalah umpan silangnya yang akurat. Ia memiliki kemampuan untuk memberikan umpan silang yang tepat waktu dan akurat kepada rekan setimnya. Umpan-umpannya sering kali menjadi ancaman bagi pertahanan lawan dan menciptakan peluang gol.\n" +
+                "\n" +
+                "Ziyech juga merupakan seorang pemain kreatif yang mampu menciptakan peluang gol. Ia memiliki visi permainan yang baik dan kemampuan untuk membaca situasi di lapangan. Dengan kemampuan ini, Ziyech dapat memberikan kontribusi signifikan dalam menciptakan peluang gol untuk timnya.\n" +
+                "\n" +
+                "Prestasi Ziyech di klub Ajax juga patut diperhatikan. Ia telah membantu klub meraih gelar-gelar seperti Eredivisie (Liga Belanda) dan KNVB Cup (Piala Belanda). Penampilannya yang konsisten dan kontribusinya dalam mencetak gol dan memberikan assist membuatnya dihargai sebagai salah satu pemain terbaik di lini serang.\n" +
+                "\n" +
+                "Hakim Ziyech juga telah mewakili tim nasional Maroko dalam kompetisi internasional. Ia telah berpartisipasi dalam Piala Afrika dan Piala Dunia, menjadi salah satu pemain kunci dalam skuad Maroko.\n" +
+                "\n" +
+                "Dengan kemampuan teknis yang luar biasa, umpan silang yang akurat, dan kontribusinya dalam menciptakan peluang gol, Hakim Ziyech adalah pemain yang sangat berharga bagi Chelsea. Ia membawa kreativitas dan kecerdasan taktis ke lini serang tim, dan diharapkan terus memberikan kontribusi positif dalam pencapaian kesuksesan klub.\n" +
+                "        ",
+
+        "  Lahir di kota Krasnorad, 5 Januari 2001, Mykhaylo Petrovych Mudryk adalah pemain sayap kiri berpostur 175 meter dengan kaki kanan sebagai kekuatan utama, yang muncul sebagai salah satu sensasi sepakbola Eropa.\n" +
+                "\n" +
+                "Jebolan akademi Shakthar, Mudryk melakoni debut dipromosikan ke tim utama 2018 meski sempat dipinjamkan ke dua tim, Arsenal Kiev dan Desna, sebelum menjadi terkenal. Seragam nomor 10 tim menonjol karena kecepatannya, dipadukan dengan visi permainan, dan penyelesaian akhir yang bagus.\n" +
+                "\n" +
+                "Pemuda Ukraina ini mampu tampil menonjol tahun ini bahkan dengan invasi pasukan Rusia di wilayah negara itu yang menyebabkan kematian, kekacauan, dan drama. Ia secara rutin mengunggah pesan tentang kebanggaannya menjadi orang Ukraina dan mendukung militer negaranya.\n" +
+                "\n" +
+                "Mudryk memperkuat semua jenjang tim kelompok usia Ukraina. Ia juga telah mengantongi delapan caps timnas Ukraina, yang tersingkir pada play-off terakhir Piala Dunia melawan Wales.\n" +
+                "\n" +
+                "Pada musim 2022/2023, Mudryk menorehkan enam assist dan dua gol. Dua gol tercipta di Liga Champions, masing-masing pada laga tandang kontra RB Leipzig dan saat bermain imbang 1-1 melawan Celtic.\n" +
+                "\n" +
+                "Sang pemain bahkan telah mendapat respek dan tepuk tangan dari suporter Real Madrid di Santiago Bernabeu, suatu kehormatan yang juga pernah didapat legenda seperti Ronaldinho, Alessandro Del Piero, dan Francesco Totti.\n" +
+                "\n" +
+                "Peristiwa tersebut terjadi tahun lalu ketika Real Madrid akhirnya menang dengan skor 2-1, tapi Mudryk mendapat tepuk tangan atas kemampuan dribel dan kreativitasnya di lapangan.\n" +
+                "       ",
+
+        " Armando Broja adalah seorang penyerang muda yang berasal dari Albania. Ia lahir pada tanggal 10 September 2001 di Slough, Inggris. Broja adalah lulusan akademi Chelsea yang menunjukkan potensi yang menjanjikan dalam karier sepak bola.\n" +
+                "\n" +
+                "Broja memiliki beberapa kualitas yang membuatnya menjadi pemain yang menarik. Salah satunya adalah kecepatannya. Ia memiliki kemampuan berlari yang cepat dan dapat memanfaatkannya untuk melewati pertahanan lawan atau menciptakan peluang gol. Kecepatannya juga membantunya dalam melakukan pressing terhadap lawan.\n" +
+                "\n" +
+                "Selain itu, Broja juga memiliki kekuatan fisik yang signifikan. Ia dapat bertahan dalam duel fisik dengan pemain lawan dan menggunakan tubuhnya untuk mengatasi tekanan. Kekuatan fisik ini juga membantu dalam duel udara, memungkinkan Broja untuk menjadi ancaman di area kotak penalti.\n" +
+                "\n" +
+                "Kemampuan mencetak gol Broja juga patut diperhatikan. Ia memiliki naluri predator di depan gawang dan mampu menempatkan bola dengan baik. Broja memiliki teknik tembakan yang baik dan dapat mencetak gol baik dari dalam kotak penalti maupun dari luar kotak penalti.\n" +
+                "\n" +
+                "Broja telah mendapatkan pengalaman bermain baik di tim utama Chelsea maupun dalam periode peminjaman ke klub lain. Hal ini membantu dalam perkembangannya sebagai pemain muda. Periode peminjaman memberinya kesempatan untuk mendapatkan lebih banyak waktu bermain dan mengasah kemampuan serta pemahaman taktisnya.\n" +
+                "\n" +
+                "Dengan potensi yang menjanjikan, Broja diharapkan dapat terus berkembang dan mengukir karier yang sukses. Ia memiliki masa depan yang cerah sebagai penyerang yang berkontribusi dalam mencetak gol dan membantu timnya meraih kemenangan.\n"
+    )
+
+    private val imagesplayer = intArrayOf(
+         R.drawable.kepa,
+        R.drawable.silva,
+        R.drawable.chalobah,
+        R.drawable.chilwell,
+        R.drawable.james,
+        R.drawable.rlc,
+        R.drawable.mount,
+        R.drawable.ziyech,
+        R.drawable.mudryk,
+        R.drawable.broja)
+
+    val listData: ArrayList<Player>
+        get() {
+            val list = arrayListOf<Player>()
+            for (position in namePlayer.indices) {
+                val player = Player()
+                player.name = namePlayer[position]
+                player.description = deskripsi[position]
+                player.photo = imagesplayer[position]
+                list.add(player)
+            }
+            return list
+        }
+
+
+}
+

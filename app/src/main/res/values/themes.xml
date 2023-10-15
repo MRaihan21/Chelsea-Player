@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChelseaApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorSecondary">@color/blue</item>
+        <item name="android:windowBackground">@color/blue</item>
+
+    </style>
+
+    <style name="Theme.ChelseaApp" parent="Base.Theme.ChelseaApp" />
+
+    <style name="SCREEN">
+        <item name="android:background">#fff</item>
+    </style>
+    
+    <style name="TEXT">
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <style name="white">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+
+
+
+</resources>
