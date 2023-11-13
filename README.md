@@ -1,8 +1,7 @@
 # Chelsea Player
 Dicoding Submission - Membuat aplikasi Chelsea Player pada Android Studio dengan mempelajari dasar Activity, Intent, View & ViewGroup, Style & Theme sampai RecyclerView.
 
-
-## Screenshots
+# Screenshots
 
 ### Splash Screen
 ![ss1](https://github.com/MRaihan21/Chelsea-Player/assets/93025188/96111683-2313-4767-ae81-79a94da3ab68)
