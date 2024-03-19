@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Chelsea-App</string>
+
+    <string name="chelsea_player">Chelsea Player</string>
+
+    <string name="player">Player Name</string>
+    <string name="desc">Description</string>
+    <string name="about">About</string>
+    <string name="gmail">mraihanad.21@gmail.com</string>
+    <string name="name">M Raihan Aryadevin</string>
+    <string name="shre">Share</string>
+
+    <string name="lorem">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+    </string>
+
+    <string-array name="data_name">
+        <item>Robert Sánchez</item>
+        <item>Levi Colwill</item>
+        <item>Thiago Silva</item>
+        <item>Ben Chilwell</item>
+        <item>Reece James</item>
+        <item>Enzo Fernández</item>
+        <item>Conor Gallagher</item>
+        <item>Cole Palmer</item>
+        <item>Raheem Sterling</item>
+        <item>Mykhaylo Mudryk</item>
+        <item>Nicolas Jackson</item>
+    </string-array>
+
+    <string-array name="data_desc">
+
+        <item>
+            Robert Lynch Sánchez (lahir 18 November 1997) adalah seorang pemain sepak bola profesional asal Spanyol yang bermain sebagai penjaga gawang untuk klub Liga Utama Inggris Chelsea dan tim nasional Spanyol. Robert Sanchez merupakan kiper Spanyol yang sempat membela timnas Spanyol selama dua kali pada 2021. Dia memulai karier sebagai kiper di klub usia muda seperti Cartagena FC pada 2010, lalu melanjutkan ke Levante pada 2011, dan berlabuh di Brighton U23 pada 2016.\n\n
+            Sánchez lahir di Spanyol dari seorang ayah berkewarganegaraan Jamaika-Inggris dan ibu asal Spanyol. Pada 15 Maret 2021, Sánchez menerima panggilan pertamanya ke tim nasional Spanyol, untuk pertandingan kualifikasi Piala Dunia FIFA 2022 melawan Yunani, Georgia, dan Kosovo.\n\n
+            Pada Mei 2021, ia terpilih masuk ke dalam skuad Spanyol untuk turnamen Kejuaraan Eropa UEFA 2020 yang tertunda pelaksanaannya. Sánchez dan David de Gea menjadi pemain cadangan bagi penjaga gawang utama Unai Simón dan tidak tampil sepanjang turnamen tersebut hingga Spanyol tersingkir melalui adu penalti melawan Italia pada babak semifinal di Stadion Wembley pada 6 Juli 2021.
+        </item>
+
+        <item>
+            Levi Lemar Samuels Colwill (lahir 26 Februari 2003) adalah seorang pemain sepak bola profesional asal Inggris yang bermain sebagai bek tengah untuk klub Liga Utama Inggris Chelsea. Colwill yang lahir di Southampton, mulai bermain sepak bola untuk klub rekreasional lokal City Central FC[4] sebelum bergabung dengan akademi Chelsea kelompok umur U-9 pada 2011.\n\n
+            Pada 25 Juni 2021, ia begabung ke klub Liga Championship EFL Huddersfield Town sebagai pemain pinjaman hingga akhir musim 2021–2022. Ia tampil perdana pada kemenangan 4–2 melalui adu penalti atas Sheffield Wednesday dalam sebuah pertandingan Piala EFL pada 1 Agustus 2021. Ia mencetak gol perdana untuk Huddersfield, gol penentu kemenangan 2–1 atas Sheffield United pada 21 Agustus 2021. Sepanjang musim ini, Colwill didera sejumlah cedera pada pergelangan kaki, lutut, dan pinggul, ditambah lagi dengan COVID-19. Pada 29 Mei 2022, ia mencetak gol bunuh diri, gol tunggal kekalahan dari Nottingham Forest pada pertandingan final perebutan tempat promosi Liga Championship EFL 2022.
+        </item>
+
+        <item>
+            Thiago Emiliano da Silva (lahir 22 September 1984) adalah seorang pemain sepak bola profesional asal Brasil yang bermain sebagai bek tengah untuk klub Liga Utama Inggris Chelsea dan tim nasional Brasil.Thiago memulai karier sepakbolanya di RS Futebol pada 2002. Tahun berikutnya dia merapat ke Juventude. Sebelum memperkuat Chelsea, Silva pernah bermain di Juventude, Fluminense, Porto B, Dinamo Moskwa, Milan, dan Paris Saint-Germain.Thiago Emiliano da Silva (lahir 22 September 1984) adalah seorang pemain sepak bola profesional asal Brasil yang bermain sebagai bek tengah untuk klub Liga Utama Inggris Chelsea dan tim nasional Brasil. Thiago memulai karier sepakbolanya di RS Futebol pada 2002. Tahun berikutnya dia merapat ke Juventude. Sebelum memperkuat Chelsea, Silva pernah bermain di Juventude, Fluminense, Porto B, Dinamo Moskwa, Milan, dan Paris Saint-Germain\n\n
+            Sejak 2008, Thiago dipercaya untuk memperkuat timnas Brasil. Kala itu dia dipanggil oleh Dunga guna menghadapi kompetisi Summer Olympics 2008. Pada Piala Dunia 2014, Thiago diturunkan saat melawan Kroasia dengan skor 3-1 untuk kemenangan Tim Samba. Selang empat tahun pada Piala Dunia 2018 yang digelar di Rusia, Thiago menjadi salah satu pemain yang dipanggil untuk kembali memperkuat Brasil dia ajang empat tahunan itu. Pada Copa América 2015, Thiago juga turut serta membela timnas Brasil.
+        </item>
+
+        <item>
+            Benjamin James Chilwell (lahir 21 Desember 1996) adalah seorang pemain sepak bola profesional asal Inggris yang bermain sebagai bek kiri untuk klub Liga Utama Inggris Chelsea dan tim nasional Inggris. Chilwell memulai karier juniornya di klub Leicester City. Ia pernah bermain untuk Huddersfield pada musim 2015–16. Pada awal musim 2020–21, ia bergabung ke Chelsea.\n\n
+            Chilwell begabung dengan akademi Leicester City pada 2009 saat berusia 12 tahun. Ia meraih penghargaan Pemain Akademi Terbaik Tahunan pada akhir musim 2014–15.Di bawah manager baru Claudio Ranieri, Chilwell tampil pada beberapa pertandingan pra-musim dan diberikan nomor pungung 30 untuk musim 2015–16. Ia melakukan debut profesional dalam laga Piala Liga Inggris menghadapi Hull City pada 27 Oktober 2015.
+        </item>
+
+        <item>
+            Reece Lewis James (lahir 8 Desember 1999) adalah pemain sepak bola profesional Inggris yang bermain sebagai bek kanan untuk klub Liga Premier Chelsea , yang ia kapteni , dan tim nasional Inggris . James bergabung dengan akademi Chelsea saat masih muda dan menjadi profesional pada tahun 2017, musim di mana ia menjadi kapten tim U-18 yang meraih kemenangan di FA Youth Cup dan dinobatkan sebagai Pemain Terbaik Akademi Musim Ini. Masa pinjaman yang produktif bersama Wigan Athletic of the Championship membuatnya dipromosikan ke tim utama Chelsea sekembalinya pada tahun 2019. Ia menjadi kapten klub pada tahun 2023\n\n
+            Memulai karir bermain akar rumputnya di Kew Park Rangers dan Epsom Eagles, James menandatangani kontrak dengan Chelsea pada usia enam tahun,  dan sempat bermain singkat di rival London Barat Fulham ketika ia berusia tujuh tahun. Ia bermain sebagai striker yang mengidolakan Didier Drogba di awal masa remajanya, namun dipindahkan ke lini tengah, dan kemudian ke posisi bek kanan di mana ia kesulitan pada awalnya. Ia menjadi profesional bersama Chelsea pada Maret 2017. Selama musim 2017-18 ia menjadi kapten tim U-18 untuk memenangkan FA Youth Cup dan dinobatkan sebagai Pemain Terbaik Akademi Musim Ini. Dia menandatangani kontrak empat tahun baru dengan klub pada Juni 2018.
+        </item>
+
+        <item>
+            Enzo Jeremías Fernández (lahir 17 Januari 2001) adalah seorang pemain sepak bola profesional asal Argentina yang bermain sebagai gelandang tengah untuk klub Liga Utama Inggris Chelsea dan tim nasional Argentina. Lulusan akademi sepak bola River Plate, Fernández tampil perdana untuk tim utama klub tersebut pada 2019 sebelum dipinjamkan ke Defensa y Justicia selama dua musim. Bersama klub dari kota Florencio Varela itu, ia berhasil meraih gelar juara Copa Sudamericana dan Recopa Sudamericana sebelum kembali ke River Plate pada 2021.\n\n
+            Sekembali dari masa peminjaman itu, Fernández menjadi salah satu pemain penting River Plate dengan berhasil meraih gelar juara Divisi Utama Argentina. Pada Juli 2022, ia bergabung ke klub Primeira Liga Benfica. Setelah setengah musim bersama Benfica, pada Februari 2023, Fernández bergabung ke klub Liga Utama Inggris Chelsea dengan nilai transfer €121 juta, sebuah rekor nilai transfer termahal klub tersebut dan liga domestik Inggris, nilai transfer termahal kedua untuk pemain keluar liga domestik Portugal, dan nilai transfer pemain sepak bola termahal kelima.
+        </item>
+
+        <item>
+            Conor John Gallagher (lahir 6 Februari 2000) adalah seorang pemain sepak bola profesional asal Inggris yang bermain sebagai gelandang untuk klub Liga Utama Inggris Chelsea dan tim nasional Inggris. Gallagher memulai karier sepak bola dengan Epsom Eagles dan akademi Chelsea. Ia pernah dipinjamkan ke Charlton Athletic, Swansea City, West Bromwich Albion, dan Crystal Palace.\n\n
+            Gallagher bergabung dengan Chelsea pada usia delapan tahun. Pada Oktober 2018 dia menandatangani kontrak baru dengan Chelsea hingga 2021. Dia menjalani operasi jantung ringan tahun itu. Pada Mei 2019 ia menjadi pemain pengganti yang tidak digunakan di Final Liga Eropa UEFA 2019, mengumpulkan medali pemenang, dan juga dianugerahi Pemain Terbaik Akademi Chelsea untuk musim 2018–19.
+        </item>
+
+        <item>
+            Cole Jermaine Palmer (lahir 6 Mei 2002) adalah seorang pemain sepak bola profesional asal Inggris yang bermain sebagai gelandang serang atau penyerang untuk klub Liga Utama Inggris Chelsea dan tim nasional Inggris.\n\n
+            Pada 30 September 2020, Palmer tampil perdana untuk tim utama City dalam kemenangan tandang 3–0 atas Burnley di putaran keempat Piala EFL.Pada 21 September 2021, Palmer mencetak gol pertamanya untuk tim senior dalam kemenangan kandang 6–1 atas tim Liga Satu Wycombe Wanderers di Piala EFL. Pada 16 Oktober, Palmer tampil di Liga Utama Inggris saat melawan Burnley, dan pada malam harinya ia kembali bermain dan mencetak trigol untuk tim Man City U-23. Pada 19 Oktober, Palmer mencetak gol pertamanya di Liga Champions UEFA dalam kemenangan tandang 5–1 atas Club Brugge.
+        </item>
+
+        <item>
+            Raheem Shaquille Sterling MBE (lahir 8 Desember 1994) adalah seorang pemain sepak bola profesional asal Inggris yang bermain sebagai gelandang sayap atau gelandang serang untuk klub Liga Utama Inggris Chelsea dan tim nasional Inggris.\n\n
+            Sterling memulai karier sepak bola dengan akademi Queens Park Rangers sebelum menandatangani kontrak dengan Liverpool pada tahun 2010 dan membuat penampilan perdana di Liga Utama Inggris pada musim 2011–2012. Setelah tiga tahun bersama klub itu, ia bergabung ke Manchester City F.C pada 2015. Setelah tujuh musim bersama Manchester City dan meraih sejumlah gelar juara Liga Utama Inggris, Piala EFL, dan Piala FA, Sterling bergabung ke Chelsea pada Juli 2022.\n\n
+            Sterling tampil untuk timnas junior Inggris U16, U17, U19 dan U21. Ia tampil perdana untuk timnas senior Inggris pada November 2012 dan merupakan anggota skuad Inggris pada dua edisi Piala Dunia FIFA (2014 dan 2018) dan dua edisi Kejuaraan Eropa UEFA (2016 dan 2020).
+        </item>
+
+        <item>
+            Mykhailo Petrovych Mudryk (bahasa Ukraina: Михайло Петрович Мудрик; lahir 5 Januari 2001) adalah seorang pemain sepak bola profesional asal Ukraina untuk klub Liga Utama Inggris Chelsea dan tim nasional Ukraina. Mudryk memulai karier sepak bola dengan akademi Metalist Kharkiv pada 2010 sebelum bergabung dengan akademi Shakhtar Donetsk pada 2016. Ia tampil untuk tim utama klub tersebut pada Oktober 2018 saat berumur 17 tahun. Pada Februari 2019, ia dipinjamkan ke Arsenal Kyiv hingga akhir musim 2018–2019. Pada Agustus 2020, Mudryk dipinjamkan ke Desna Chernihiv hingga kembali ke Shakhtar pada Januari 2021. Setelah empat musim bersama Shakhtar, ia bergabung ke Chelsea pada Januari 2023 dengan menandatangani kontrak berdurasi delapan setengah musim.\n\n
+            Mudryk tampil timnas junior Ukraina mulai kelompok umur U-16 hingga U-21. Ia tampil perdana untuk timnas senior Ukraina pada Mei 2022.
+        </item>
+
+        <item>
+            Jackson lahir di Banjul, Gambia dari orang tua keturunan Senegal. Pada umur 16, ia pindah ke Ziguinchor dan memulai karier dengan klub lokal ASC Tilene. Ia kemudian bergabung ke Casa Sports hingga tampil untuk tim utama pada Liga Utama Senegal 2018–2019.\n\n
+            Pada 5 Oktober 2020, Jackson dipinjamkan ke klub Segunda División Mirandés hingga akhir musim 2020–2021.Ia tampil perdana untuk klub tersebut 13 hari kemudian, masuk sebagai pemain pada babak kedua pertandingan kandang melawan Mallorca yang berakhir imbang 0–0. Jackson mencetak gol perdana untuk Mirandés pada 28 November 2020, gol pembuka pada pertandingan kandang melawan Castellón yang berakhir imbang 1–1. Gol tersebut merupakan satu-satunya gol Jackson untuk Jabatos, julukan Mirandés, yang berada pada peringkat ke-10 klasemen akhir Segunda División 2020–2021.
+        </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/sanchez</item>
+        <item>@drawable/colwil</item>
+        <item>@drawable/silva</item>
+        <item>@drawable/chilwel</item>
+        <item>@drawable/james</item>
+        <item>@drawable/enzo</item>
+        <item>@drawable/gallagher</item>
+        <item>@drawable/palmer</item>
+        <item>@drawable/sterling</item>
+        <item>@drawable/mudryk</item>
+        <item>@drawable/jackson</item>
+    </integer-array>
+
+</resources>
